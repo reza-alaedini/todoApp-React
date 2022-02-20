@@ -1,3 +1,11 @@
+# Simple Todo App With React JS
+***used packages:***
+- react
+- react-router-dom
+- react-toastify
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
